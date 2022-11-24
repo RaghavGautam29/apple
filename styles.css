@@ -1,0 +1,50 @@
+.navbar-brand{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.nav-item{
+  padding:2rem;
+  font-size: 1.2rem;
+}
+#title{
+  background-color:#D7C0AE;
+  padding: 5% 5%;
+}
+.continer-fluid{
+  padding:10% 20%;
+}
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+}
+.icon{
+  margin-bottom: 1.4rem;
+}
+.icon:hover{
+  color:#D8D9CF;
+}
+p{
+  color:#9F8772;
+}
+#carousel{
+  text-align: center;
+  background-color: #D7C0AE;
+}
+.iphone1{
+  width:80%;
+}
+#pricing{
+  padding-top: 5rem;
+  padding-left: 5rem;
+  background-color: #D7C0AE;
+}
+.card-group{
+  padding:10% 10% 
+}
+#footer{
+  background-color: #D8D9CF;
+  text-align: center;
+}
